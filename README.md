@@ -11,17 +11,16 @@
 ## 截图展示
 
 ### 封面
-![封面](images/封面.png)
+<img src="images/封面.png" width="400">
 
 ### 内容
-![内容](images/内容.png)
+<img src="images/内容.png" width="400">
 
 ### 暗色封面
-![暗色封面](images/暗色封面.png)
+<img src="images/暗色封面.png" width="400">
 
 ### 暗色内容
-![暗色内容](images/暗色内容.png)
+<img src="images/暗色内容.png" width="400">
 
 ### 全屏
-![全屏](images/全屏.png)
-
+<img src="images/全屏.png" width="800">
